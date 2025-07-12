@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)((https://leesimoyi.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)(https://leesimoyi.io)
 <h1 align="center">Hi 👋, I'm Lee Simoyi</h1>
 <h3 align="center">🎓 Bachelor of Computer Applications (BCA) Student </h3>
 <h3 align="center">🌐 Aspiring Full-Stack Developer | Passionate about Programming & Web Development</h3>
