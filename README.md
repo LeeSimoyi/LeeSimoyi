@@ -22,7 +22,7 @@
 |---|---|
 | 🔭 Building | Personal projects & client landing pages |
 | 🌱 Learning | TypeScript · Advanced React · Full Stack |
-| 💬 Ask me about | React, Tailwind CSS, Responsive Design |
+| 💬 Ask me about | React, HTML, CSS, Responsive Design |
 | ✅ Available for | Internships · Freelance · Collaborations |
 
 ---
@@ -52,7 +52,7 @@
 
 **🌐 Developer Portfolio**
 Sleek personal portfolio — responsive, animated, and optimized.
-`React` `Tailwind CSS` `Vercel`
+`HTML` `CSS` `JavaScript` `Vercel`
 
 [![Live](https://img.shields.io/badge/Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://simoyi-portfolio.vercel.app) [![Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LeeSimoyi/simoyi-portfolio)
 
